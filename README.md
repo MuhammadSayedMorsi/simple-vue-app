@@ -30,9 +30,7 @@ yarn run test
 yarn run lint
 ```
 
-h9909573
 
-h9909573
 
 ### Customize configuration
 
